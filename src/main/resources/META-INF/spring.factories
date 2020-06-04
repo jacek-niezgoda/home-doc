@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+pl.jacek-niezgoda.homedoc.configuration.HomeDocConfiguration,\
+pl.jacek-niezgoda.homedoc.service.HomeDocService,\
+pl.jacek-niezgoda.smartlife.homedoc.controller.HomeDocController
